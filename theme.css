@@ -1,0 +1,24 @@
+body {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+#your-name{
+	float:right;
+	font-size:1.5em;
+}
+
+.col-md-3, .col-md-6 {
+	background-color:#FFF;
+	border:0;
+}
